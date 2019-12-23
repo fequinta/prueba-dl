@@ -1,0 +1,47 @@
+body{
+  font-family: 'Cabin', sans-serif;
+}
+h1,h2,h3,h4,h5,h6{
+  font-family: 'Lobster', cursive;
+}
+header{
+  background-image: url(https://wallpaperaccess.com/full/1216364.jpg);
+  background-repeat:no-repeat;
+  background-size: cover;
+  background-position: left;
+}
+
+hr.divider{
+max-width: 15.25rem;
+border-width: 0.4rem;
+border-color: #696969;
+}
+
+hr{
+  display: block;
+  unicode-bidi: isolate;
+  margin-block-start: 0,5em;
+  margin-block-end:0,5em;
+
+}
+
+.fa-search{
+  color:#fff;
+
+}
+#works{
+  font-color:#fff;
+}
+
+p{
+  font-color: #ffff;
+}
+
+#yo. ocultar.-{
+  display: none!important;
+}
+
+.navbar-inverse. nav li a {
+  color:white;
+
+}
